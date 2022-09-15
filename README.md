@@ -30,4 +30,8 @@ https://www.amazon.jobs/jp/jobs/2211245/2024
 
 https://drive.google.com/file/d/1IrjtQe2S1Gukk9dezBtuGLC_-tGkDFJO/view?usp=sharing
 
+### BQ 视频
+
+https://www.youtube.com/watch?v=RMA7tI-LTWY&list=PLLucmoeZjtMR990BPePcn5WgoCM_OX0YB&index=4
+
 ## 
