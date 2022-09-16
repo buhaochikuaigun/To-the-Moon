@@ -65,4 +65,11 @@ https://www.zhihu.com/question/549931415/answer/2663776564
 
 https://www.youtube.com/watch?v=RMA7tI-LTWY&list=PLLucmoeZjtMR990BPePcn5WgoCM_OX0YB&index=4
 
-## 
+### Leetcode
+
+
+1. OI wiki
+
+虽然是 编程竞赛 (competitive programming) 知识整合站点，但是有很多面试会考的进阶知识点（例如单调栈、线段树等）会有细致的讲解和对应习题。
+
+
