@@ -15,6 +15,8 @@ We choose to go to the moon not because it is easy but because it is hard.
 
 https://www.amazon.jobs/jp/jobs/2211245/2024
 
+Shopee, Google, MSFT, Apple, Facebook, Tencent, Bloomburg, Line, Bytedance, Netflix
+
 > 基本条件
 > 四年制大学、大学院、もしくは博士課程をご卒業予定の方2024年4月入社可能の方　※2023年4月～2024年3月の間にご卒業される方 C, C++, C#, Java, Python, Scala といったプログラミング言語に最低1つ精通していること.オブジェクト指向デザイン、データ構造、アルゴリズムデザイン、計算量解析等に対する基礎知識
 > 日本語：ビジネスレベル以上（母国語もしくは、日本語能力試験JLPT N2以上取得）
