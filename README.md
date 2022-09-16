@@ -23,7 +23,13 @@ https://www.vorkers.com/
 
 https://www.amazon.jobs/jp/jobs/2211245/2024
 
-Shopee, Google, MSFT, Apple, Facebook, Tencent, Bloomburg, Line, Bytedance, Netflix, Indeed, Alibaba, Baidu, Huawei
+2. Bloomberg
+
+说明会：
+
+https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941
+
+Shopee, Google, MSFT, Apple, Facebook, Tencent, Line, Bytedance, Netflix, Indeed, Alibaba, Baidu, Huawei
 
 
 ## 2. 资料
