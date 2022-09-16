@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 ~~5. MSFT (不招聘): https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx~~
 
+6. Indeed (未开): https://search.indeed.jobs/main/jobs?keywords=SDE&location=tokyo
+
 
 ## 2. 资料
 
