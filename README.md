@@ -80,4 +80,8 @@ https://oi-wiki.org/intro/about/
 
 虽然是 编程竞赛 (competitive programming) 知识整合站点，但是有很多面试会考的进阶知识点（例如单调栈、线段树等）会有细致的讲解和对应习题。
 
+2. Algorithm Visualizer, 一个算法可视化的网站
+
+https://algorithm-visualizer.org/
+
 
