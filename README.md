@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 9. SmartNews: https://careers.smartnews.com/jobs/
 
+10. PFN: https://www.preferred.jp/en/careers_jobs/engineering/
 
 
 ## 2. 资料
