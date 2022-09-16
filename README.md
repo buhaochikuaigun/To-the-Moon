@@ -27,13 +27,6 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 5. MSFT（不招聘）: https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
 
-6. 
-
-
-
-
-Shopee, Apple, Facebook, Tencent, Line, Bytedance, Netflix, Indeed, Alibaba, Baidu, Huawei
-
 
 ## 2. 资料
 
