@@ -41,6 +41,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 12. Rakuten: https://global.rakuten.com/corp/careers/graduates/recruit_engineer/
 
+13. 索尼互动娱乐(PlayStation): https://www.sie.com/jp/saiyo/newgrad/job-people.html
+
 
 ## 2. 资料
 
