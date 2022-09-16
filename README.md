@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 4. Google: https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&location=%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD&q=engineer
 
-5. MSFT（不招聘）:https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
+5. MSFT（不招聘）: https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
 
 6. 
 
