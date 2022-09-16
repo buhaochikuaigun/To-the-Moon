@@ -1,5 +1,5 @@
 # To-the-Moon
-We choose to go to the moon not because it is easy but because it is hard.
+We choose to go to the moon not because that will be easy but because that will be hard.
 
 https://www.youtube.com/watch?v=ouRbkBAOGEw
 
