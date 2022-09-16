@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 17. ExaWizard：https://recruit.exawizards.com/newgrads/eng
 
+18. Appier: https://boards.greenhouse.io/appier?_fsi=Gd29r6zH&_fsi=vctKY95x
+
 
 ## 2. 资料
 
