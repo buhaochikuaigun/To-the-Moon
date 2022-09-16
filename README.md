@@ -49,6 +49,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 16. PayPay：https://boards.greenhouse.io/paypay/jobs/4633225004
 
+17. ExaWizard：https://recruit.exawizards.com/newgrads/eng
+
 
 ## 2. 资料
 
