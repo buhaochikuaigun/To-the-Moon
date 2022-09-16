@@ -15,29 +15,17 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 0. 各种求职网站
 
-- OpenWork
+- OpenWork: https://www.vorkers.com/
 
-https://www.vorkers.com/
+1. Amazon Tokyo: ソフトウェア開発エンジニア 2024: https://www.amazon.jobs/jp/jobs/2211245/2024
 
-1. Amazon Tokyo: ソフトウェア開発エンジニア 2024　
+2. Bloomberg 说明会：https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941
 
-https://www.amazon.jobs/jp/jobs/2211245/2024
+3. line: https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29
 
-2. Bloomberg
+4. Google: https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&location=%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD&q=engineer
 
-说明会：https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941
-
-3. line
-
-https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29
-
-4. Google
-
-https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&location=%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD&q=engineer
-
-5. MSFT
-（暂时不招聘）
-https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
+5. MSFT（不招聘）:https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
 
 6. 
 
