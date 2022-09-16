@@ -56,6 +56,10 @@ https://zhuanlan.zhihu.com/p/545522472
 
 https://zhuanlan.zhihu.com/p/498227867
 
+6. 职业 | 亚麻 SDE 面试经验分享+学习材料汇总（2022年8月版）
+
+https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/
+
 
 -1. 其他问题
 
