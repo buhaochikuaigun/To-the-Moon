@@ -37,6 +37,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 10. PFN: https://www.preferred.jp/en/careers_jobs/engineering/
 
+11. Mercari: https://careers.mercari.com/search-jobs/?dep=engineering&cat=new-graduate-hiring
+
 
 ## 2. 资料
 
