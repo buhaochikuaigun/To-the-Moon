@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 11. Mercari: https://careers.mercari.com/search-jobs/?dep=engineering&cat=new-graduate-hiring
 
+12. Rakuten: https://global.rakuten.com/corp/careers/graduates/recruit_engineer/
+
 
 ## 2. 资料
 
