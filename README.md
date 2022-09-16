@@ -32,6 +32,26 @@ https://drive.google.com/file/d/1IrjtQe2S1Gukk9dezBtuGLC_-tGkDFJO/view?usp=shari
 
 ### BQ 视频
 
+### 经验贴
+
+1. 日本东京互联网IT就职调研
+https://zhuanlan.zhihu.com/p/401924091
+
+2. 【日本就职】东京顶流IT企业调研——新卒向け
+https://zhuanlan.zhihu.com/p/427128483
+
+3. 情报系・日本就职经历吐槽
+https://zhuanlan.zhihu.com/p/530736395
+
+4. 从文科零基础转码到拿到谷歌东京SWE offer，日本IT就职经验分享
+https://zhuanlan.zhihu.com/p/545522472
+
+-1. 其他问题
+https://www.zhihu.com/question/514041580/answer/2427526125
+https://www.zhihu.com/question/549931415/answer/2663776564
+
+
+
 https://www.youtube.com/watch?v=RMA7tI-LTWY&list=PLLucmoeZjtMR990BPePcn5WgoCM_OX0YB&index=4
 
 ## 
