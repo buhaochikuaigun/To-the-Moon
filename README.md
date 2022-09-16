@@ -47,6 +47,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 15. Leapmind：https://hrmos.co/pages/leapmind/jobs
 
+16. PayPay：https://boards.greenhouse.io/paypay/jobs/4633225004
+
 
 ## 2. 资料
 
