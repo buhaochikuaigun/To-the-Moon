@@ -1,6 +1,8 @@
 # To-the-Moon
 We choose to go to the moon not because it is easy but because it is hard.
 
+https://www.youtube.com/watch?v=ouRbkBAOGEw
+
 ## 0. 就职
 
 又到了一年一度东京就职季，希望大家互相帮助最后都能找到工作！
