@@ -13,6 +13,12 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 ## 1. TimeLine
 
+0. 各种求职网站
+
+- OpenWork
+
+https://www.vorkers.com/
+
 1. Amazon Tokyo: ソフトウェア開発エンジニア 2024　
 
 https://www.amazon.jobs/jp/jobs/2211245/2024
