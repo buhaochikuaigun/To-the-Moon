@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 6. Indeed (未开): https://search.indeed.jobs/main/jobs?keywords=SDE&location=tokyo
 
+7. Woven 自动驾驶： https://jobs.lever.co/woven-planet-2
+
+8. 商汤科技 Sensetime：https://herp.careers/v1/sensetime/requisition-groups/3d4248b2-bc8b-44c8-af95-5ff8c1ad95cd
+
 
 ## 2. 资料
 
