@@ -37,6 +37,11 @@ https://drive.google.com/file/d/1IrjtQe2S1Gukk9dezBtuGLC_-tGkDFJO/view?usp=shari
 
 https://zhuanlan.zhihu.com/p/401924091
 
+PS: 这个朋友在 Bilibili 也有账号，拍视频介绍过日本留学生就职相关视频；id 叫 东京LS. 你可以通过下面的链接访问主页：
+
+https://space.bilibili.com/1283564269
+
+
 2. 【日本就职】东京顶流IT企业调研——新卒向け
 
 https://zhuanlan.zhihu.com/p/427128483
@@ -48,6 +53,10 @@ https://zhuanlan.zhihu.com/p/530736395
 4. 从文科零基础转码到拿到谷歌东京SWE offer，日本IT就职经验分享
 
 https://zhuanlan.zhihu.com/p/545522472
+
+5. 日本 就职心得 2020-2022
+
+https://zhuanlan.zhihu.com/p/498227867
 
 
 -1. 其他问题
