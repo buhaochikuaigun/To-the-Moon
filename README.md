@@ -68,6 +68,10 @@ https://zhuanlan.zhihu.com/p/498227867
 
 https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/
 
+7. 日本码农工作分类——新卒视角
+
+https://liuyuchen777.github.io/2022/01/07/Japan-IT/
+
 
 -1. 其他问题
 
