@@ -45,6 +45,8 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 14. 索尼： https://www.sony.com/ja/SonyInfo/Jobs/newgrads/course/?courseSelect=course00&job_cat=category01&job_cat=category02&job_cat=category03&job_cat=category04&job_cat=category05&job_cat=category06&job_cat=category07&job_cat=category08&job_cat=category09&job_com=company02
 
+15. Leapmind：https://hrmos.co/pages/leapmind/jobs
+
 
 ## 2. 资料
 
