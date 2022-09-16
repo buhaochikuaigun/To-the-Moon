@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=ouRbkBAOGEw
 
 8. 商汤科技 Sensetime：https://herp.careers/v1/sensetime/requisition-groups/3d4248b2-bc8b-44c8-af95-5ff8c1ad95cd
 
+9. SmartNews: https://careers.smartnews.com/jobs/
+
+
 
 ## 2. 资料
 
@@ -77,6 +80,7 @@ https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/
 7. 日本码农工作分类——新卒视角
 
 https://liuyuchen777.github.io/2022/01/07/Japan-IT/
+
 
 
 -1. 其他问题
