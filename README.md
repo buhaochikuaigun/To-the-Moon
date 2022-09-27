@@ -55,6 +55,8 @@ Leadership-Principle: https://www.aboutamazon.com/about-us/leadership-principles
 
 18. Appier: https://boards.greenhouse.io/appier?_fsi=Gd29r6zH&_fsi=vctKY95x
 
+19. Rinna: https://rinna.co.jp/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8
+
 
 ## 2. 资料
 
