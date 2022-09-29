@@ -57,6 +57,16 @@ Leadership-Principle: https://www.aboutamazon.com/about-us/leadership-principles
 
 19. Rinna: https://rinna.co.jp/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8
 
+20. RedHat: https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13272--Tokyo
+
+21. SAP: https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=tokyo&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=
+
+22. Tanium: https://www.tanium.com/careers/engineering/#jobs
+
+23. BlackRock: https://careers.blackrock.com/early-careers/asia-pacific/?2023-2024
+
+24. airbnb: https://careers.airbnb.com/positions/
+
 
 ## 2. 资料
 
