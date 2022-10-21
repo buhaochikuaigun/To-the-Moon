@@ -33,9 +33,7 @@ https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/
 
 https://liuyuchen777.github.io/2022/01/07/Japan-IT/
 
-
-
--1. 其他问题
+0. 其他问题
 
 https://www.zhihu.com/question/514041580/answer/2427526125
 https://www.zhihu.com/question/549931415/answer/2663776564
