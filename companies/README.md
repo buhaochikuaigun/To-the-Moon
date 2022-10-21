@@ -3,7 +3,7 @@
 - 各种求职网站
   - [OpenWork](https://www.vorkers.com/) 
   - [サーポタズ](https://talent.supporterz.jp/events/)
-  - [LabBase](ttps://compass.labbase.jp/)
+  - [LabBase](https://compass.labbase.jp/)
   - [CFN](https://careerforum.net/ja/)
 - Amazon Japan 
   - [Career Page](https://www.amazon.jobs/en)
