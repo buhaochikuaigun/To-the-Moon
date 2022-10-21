@@ -8,7 +8,7 @@
 - Amazon Japan 
   - [Career Page](https://www.amazon.jobs/en)
   - [ソフトウェア開発エンジニア 2024](https://www.amazon.jobs/jp/jobs/2211245/2024)
-  - [Details](./Amazon/README.md)
+  - [Detail](./Amazon/README.md)
 - Bloomberg (说明会)
   - [Career Event](https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941)
 - line: (未开) 
