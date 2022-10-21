@@ -10,8 +10,6 @@
 
 1. Amazon Tokyo: ソフトウェア開発エンジニア 2024: https://www.amazon.jobs/jp/jobs/2211245/2024
 
-Leadership-Principle: https://www.aboutamazon.com/about-us/leadership-principles
-
 2. Bloomberg (说明会)：https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941
 
 3. line: (未开) https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29
