@@ -4,6 +4,9 @@
 0. 各种求职网站
 
   - OpenWork: https://www.vorkers.com/
+  - サーポタズ：https://talent.supporterz.jp/events/
+  - LabBase：https://compass.labbase.jp/
+  - CFN：https://careerforum.net/ja/
 
 1. Amazon Tokyo: ソフトウェア開発エンジニア 2024: https://www.amazon.jobs/jp/jobs/2211245/2024
 
@@ -13,9 +16,9 @@ Leadership-Principle: https://www.aboutamazon.com/about-us/leadership-principles
 
 3. line: (未开) https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29
 
-4. Google: (未开) https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&location=%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD&q=engineer
+4. Google: (未开) https://careers.google.com/jobs/
 
-~~5. MSFT (不招聘): https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx~~
+5. MSFT (招聘，岗位很少): https://www.microsoft.com/ja-jp/mscorp/college/msd-entry.aspx
 
 6. Indeed (未开): https://search.indeed.jobs/main/jobs?keywords=SDE&location=tokyo
 
@@ -33,7 +36,7 @@ Leadership-Principle: https://www.aboutamazon.com/about-us/leadership-principles
 
 13. 索尼互动娱乐(PlayStation): https://www.sie.com/jp/saiyo/newgrad/job-people.html
 
-14. 索尼： https://www.sony.com/ja/SonyInfo/Jobs/newgrads/course/?courseSelect=course00&job_cat=category01&job_cat=category02&job_cat=category03&job_cat=category04&job_cat=category05&job_cat=category06&job_cat=category07&job_cat=category08&job_cat=category09&job_com=company02
+14. 索尼： https://www.sony.com/ja/SonyInfo/Jobs/newgrads/
 
 15. Leapmind：https://hrmos.co/pages/leapmind/jobs
 
