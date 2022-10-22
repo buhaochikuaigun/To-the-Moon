@@ -8,7 +8,6 @@
 
 - [Amazon Interview Questions Playlist](https://www.youtube.com/watch?v=RMA7tI-LTWY&list=PLLucmoeZjtMR990BPePcn5WgoCM_OX0YB&index=4)
 - [Tech Lead - BQ](https://www.youtube.com/watch?v=EVavVNhG5l8)
-- 
 
 ### 网站
 
