@@ -11,6 +11,7 @@
   - [Detail](./Amazon/README.md)
 - Bloomberg (说明会)
   - [Career Event](https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941)
+  - [Detail](./Bloomberg/README.md)
 - line: (未开) 
   - [Career Page](https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29)
 - Google: (未开) 
@@ -60,3 +61,6 @@
   - [Career Page](https://careers.blackrock.com/early-careers/asia-pacific/?2023-2024)
 - Airbnb
   - [Career Page](https://careers.airbnb.com/positions/)
+- Bosch
+  - [Career Page](https://careers.smartrecruiters.com/BoschGroup/japan)
+  - [Detail](./Bosch/README.md)
