@@ -1,39 +1,22 @@
-# Past Experiences
+# Past Experience
 
-1. 日本东京互联网IT就职调研
-
-https://zhuanlan.zhihu.com/p/401924091
-
-PS: 这个朋友在 Bilibili 也有账号，拍视频介绍过日本留学生就职相关视频；id 叫 东京LS. 你可以通过下面的链接访问主页：
-
-https://space.bilibili.com/1283564269
-
-
-2. 【日本就职】东京顶流IT企业调研——新卒向け
-
-https://zhuanlan.zhihu.com/p/427128483
-
-3. 情报系・日本就职经历吐槽
-
-https://zhuanlan.zhihu.com/p/530736395
-
-4. 从文科零基础转码到拿到谷歌东京SWE offer，日本IT就职经验分享
-
-https://zhuanlan.zhihu.com/p/545522472
-
-5. 日本 就职心得 2020-2022
-
-https://zhuanlan.zhihu.com/p/498227867
-
-6. 职业 | 亚麻 SDE 面试经验分享+学习材料汇总（2022年8月版）
-
-https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/
-
-7. 日本码农工作分类——新卒视角
-
-https://liuyuchen777.github.io/2022/01/07/Japan-IT/
-
-0. 其他问题
-
-https://www.zhihu.com/question/514041580/answer/2427526125
-https://www.zhihu.com/question/549931415/answer/2663776564
+- [日本东京互联网IT就职调研](https://zhuanlan.zhihu.com/p/401924091)
+- [东京LS](https://space.bilibili.com/1283564269)：Bilibili 也有账号，拍视频介绍过日本留学生就职相关视频
+- [东京顶流IT企业调研——新卒向け](https://zhuanlan.zhihu.com/p/427128483)
+- [情报系・日本就职经历吐槽](https://zhuanlan.zhihu.com/p/530736395)
+- [从文科零基础转码到拿到谷歌东京SWE offer，日本IT就职经验分享](https://zhuanlan.zhihu.com/p/545522472): 2022年
+- [日本 就职心得 2020-2022](https://zhuanlan.zhihu.com/p/498227867)
+- [职业 | 亚麻 SDE 面试经验分享+学习材料汇总（2022年8月版)](https://randomwaves.space/posts/amazon-sde-interview-2022-08-ver/)
+- 日本码农工作分类——新卒视角
+  - [文字版](https://liuyuchen777.github.io/2022/01/07/Japan-IT/)
+  - [视频版](https://www.bilibili.com/video/BV1aq4y1y7q4)
+- 知乎问题
+  - [日本it行业毕业从普通大手工作3-5年想中途采用进入indeed、埃森哲、谷歌这些外资难度大吗？](https://www.zhihu.com/question/514041580/answer/2427526125)
+  - [23/24新卒日本就职，大家找到了怎样的工作？](https://www.zhihu.com/question/549931415/answer/2663776564)
+- [分享我日本亚麻SDE实习拿到return的经历](https://www.douban.com/group/topic/198277633/?_i=6443460PPtvepl)
+- [日本IT行业简介 and 到底该不该来日本做IT](https://zhuanlan.zhihu.com/p/48274057)
+- [日本互联网公司校招面试经验分享](https://zhuanlan.zhihu.com/p/148084023)
+- [在日本参加就职活动是怎么一种体验？](https://www.zhihu.com/question/38645740/answer/636839317)
+- [笑歌 22 Spring internship experience for Japanese company](https://docs.google.com/document/d/1Afa90T15NbwoLDHTc_yr6bRdjicuE9qRVjQAwMa8GuY)
+- [亚麻japan 面试相关信息收集](https://docs.google.com/document/d/1Mnnpov_48BjYJT28nakvyA3ak1nxdRkMHVjK_sSarLc)
+- [东京码农求职记](https://johnkyon.github.io/2019/05/06/job-hunting-Tokyo/?nsukey=5Q9LpKSHh9uSOBpXo%2FMxCt9yAaiOYyE%2Bservoa2N75laCp1eeTwUTyVhm08TgP5gcAxPtmeeFpOdbErlVk3qfzekWCzJMkcdJ2anHMbX1vYO4mSQvC%2BIi6G0FiaIj5Gau8f7U7udr%2FmJ5FvV7Xk0j8kRBduM1%2B%2BrlxxMXDd6grudqX6ASbyx7jJ0gIPMB2WS56%2FOzB29Yk2sY%2Fe1sm6opQ%3D%3D)：2019
