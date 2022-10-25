@@ -15,3 +15,7 @@ We choose to go to the [moon](https://www.youtube.com/watch?v=ouRbkBAOGEw) not b
 - [经验贴](./experience/README.md)
 - [找工作准备的资源](./resources/README.md)
 - [Happy Hour](./happy_hour/README.md)
+
+## 加入我们
+
+如果上岸后有兴趣跟我们分享你在日本就职的经验（任何岗位），欢迎访问我们[就职信息整理小组](https://qiusenwan.notion.site/611f9d5610e24cd396408de93e2f3c35)的页面，联系管理员把你加到Notion协作和GitHub Developer.
