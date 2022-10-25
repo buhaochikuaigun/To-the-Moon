@@ -14,3 +14,4 @@ We choose to go to the [moon](https://www.youtube.com/watch?v=ouRbkBAOGEw) not b
 - [公司介绍](./companies/README.md)
 - [经验贴](./experience/README.md)
 - [找工作准备的资源](./resources/README.md)
+- [Happy Hour](./happy_hour/README.md)

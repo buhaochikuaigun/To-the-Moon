@@ -20,3 +20,5 @@
 - [笑歌 22 Spring internship experience for Japanese company](https://docs.google.com/document/d/1Afa90T15NbwoLDHTc_yr6bRdjicuE9qRVjQAwMa8GuY)
 - [亚麻japan 面试相关信息收集](https://docs.google.com/document/d/1Mnnpov_48BjYJT28nakvyA3ak1nxdRkMHVjK_sSarLc)
 - [东京码农求职记](https://johnkyon.github.io/2019/05/06/job-hunting-Tokyo/?nsukey=5Q9LpKSHh9uSOBpXo%2FMxCt9yAaiOYyE%2Bservoa2N75laCp1eeTwUTyVhm08TgP5gcAxPtmeeFpOdbErlVk3qfzekWCzJMkcdJ2anHMbX1vYO4mSQvC%2BIi6G0FiaIj5Gau8f7U7udr%2FmJ5FvV7Xk0j8kRBduM1%2B%2BrlxxMXDd6grudqX6ASbyx7jJ0gIPMB2WS56%2FOzB29Yk2sY%2Fe1sm6opQ%3D%3D)：2019
+- [【日本就职】2021日本暑期实习（就职）体验谈](https://zhuanlan.zhihu.com/p/389166218)
+- [2022 日本互联网薪资指南](https://mp.weixin.qq.com/s/IfdiExG9NoFVnDVd4kSWsQ)

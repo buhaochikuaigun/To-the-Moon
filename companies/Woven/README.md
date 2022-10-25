@@ -18,6 +18,10 @@ Woven的前身是TRI-AD，是丰田的全资子公司。2020年初改制为Woven
 
 薪资方面据说senior的岗位能给到1-2千万年包，而且是纯现金。其他的福利包括房补，这个估计很多之前在互联网工作的人都没听过，不过是传统日企的基本操作，一个月不管租房还是买房都有5万日元的补助，相当于年包上加上60万日元（一般日企的房补只能用来租房，算作税前消费，企业支出）。我想背靠丰田，总是要比一般的互联网要好的吧。
 
+## 相关链接
+
+- [丰田真的对电动车没兴趣么？来看看这家叫Woven 的子公司](https://zhuanlan.zhihu.com/p/343395770)
+
 ## 薪资数据
 
 - [Open Salary](https://opensalary.jp/en/companies/woven-planet/roles/software-engineer)

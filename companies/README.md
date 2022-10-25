@@ -1,10 +1,12 @@
 # Companies
 
-- 各种求职网站
+## 各种求职网站
   - [OpenWork](https://www.vorkers.com/) 
   - [サーポタズ](https://talent.supporterz.jp/events/)
   - [LabBase](https://compass.labbase.jp/)
   - [CFN](https://careerforum.net/ja/)
+
+## 公司
 - Amazon Japan 
   - [Career Page](https://www.amazon.jobs/en)
   - [ソフトウェア開発エンジニア 2024](https://www.amazon.jobs/jp/jobs/2211245/2024)
@@ -33,8 +35,10 @@
   - [Career Page](https://www.preferred.jp/en/careers_jobs/engineering/)
 - Mercari
   - [Career Page](https://careers.mercari.com/search-jobs/?dep=engineering&cat=new-graduate-hiring)
+  - [Detail]()
 - Rakuten
-  - [Rakuten](https://global.rakuten.com/corp/careers/graduates/recruit_engineer/)
+  - [Career Page](https://global.rakuten.com/corp/careers/graduates/recruit_engineer/)
+  - [Detail](./Rakuten/README.md)
 - 索尼互动娱乐(SIE)
   - [Career Page](https://www.sie.com/jp/saiyo/newgrad/job-people.html)
   - [Detail](./SIE/README.md)
@@ -64,3 +68,7 @@
 - Bosch
   - [Career Page](https://careers.smartrecruiters.com/BoschGroup/japan)
   - [Detail](./Bosch/README.md)
+
+## 其他
+
+![万佬流东京IT排名](./assets/wan_ranking.jpg)

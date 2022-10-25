@@ -22,6 +22,14 @@ A家和G家在日本有一个问题就是，很多组会偏业务边缘或者做
 
 另外Indeed Work Life Balance非常好，每个月挑一天叫You Day，全公司放假。PTO凭空多出了12天，加上日本祝日也多
 
+## 相关链接
+
+- [要跳槽了，安利Indeed](https://www.1point3acres.com/bbs/forum.php?highlight=indeed)
+- [自学编程，拒了Google，进了indeed](https://www.zhihu.com/zvideo/1515272590696787968)
+- [日本最高工资｜在Indeed当码农有多挣钱？](https://www.zhihu.com/zvideo/1421884828643512320)
+- [在indeed东京办公室工作是怎样的体验?](https://www.zhihu.com/question/28041379/answer/57708089)
+- [日本互联网公司巡礼 -- 东京新贵Indeed](https://zhuanlan.zhihu.com/p/98597148)
+
 ## 薪资数据
 
 - [Open Salary](https://opensalary.jp/en/companies/indeed)

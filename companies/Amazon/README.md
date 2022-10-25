@@ -22,6 +22,12 @@ Amazon Japan我是实习转正的流程，是非常典型的科技企业面试�
 
 另外相比美国亚马逊，日本这边首先是不用担心工作签证，日本永驻不如北京户口值钱。其次日亚不太搞PIP。整体应该是没有美国那么血汗工厂的。我和这边SDE聊基本能保证准点下班。
 
+## 相关链接
+
+- [亚麻japan 面试相关信息收集](https://docs.google.com/document/d/1Mnnpov_48BjYJT28nakvyA3ak1nxdRkMHVjK_sSarLc)
+- [分享我日本亚麻SDE实习拿到return的经历](https://www.douban.com/group/topic/198277633/?_i=6443460PPtvepl)：2021
+- [初渡日本的码农求职记（日本亚麻SDE实习上岸）](https://mp.weixin.qq.com/s/SpyWiULuNgCPdo2R9gx15Q):2022
+
 ## 薪资数据
 
 - [Open Salary](https://opensalary.jp/en/companies/amazon-japan/roles/software-engineer)
