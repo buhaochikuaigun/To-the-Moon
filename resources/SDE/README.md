@@ -32,6 +32,7 @@
   - [C++](https://github.com/changgyhub/leetcode_101): C++刷题其实是C+STL，C++类的高级特性其实用不到。C++刷题的一个优势是很清晰，基本上没有类的包装，虽然很多时候需要写额外的代码。
   - [Python](https://github.com/itcharge/LeetCode-Py): Python是最常用的，优势是任何数据结构都可以很好地打印debug，缺点是弱类型语言容易写出奇奇怪怪的bug。建议Python 3.9用类型后缀。
   - [Java](https://github.com/Blankj/awesome-java-leetcode)：Java的数据结构是最简明清晰的，Hash Map有带order不带order两种，Array有链表数组两种实现形式。缺点是有时候打印会让你抓狂。
+ - [公司别题库](https://github.com/xizhengszhang/Leetcode_company_frequency)
 
 ## OOD/System Design
 
