@@ -21,3 +21,7 @@ We choose to go to the [moon](https://www.youtube.com/watch?v=ouRbkBAOGEw) not b
 如果上岸后有兴趣跟我们分享你在日本就职的经验（任何岗位），欢迎访问我们[就职信息整理小组](https://qiusenwan.notion.site/611f9d5610e24cd396408de93e2f3c35)的页面，联系管理员把你加到Notion协作和GitHub Developer.
 
 [贡献指南](https://qiusenwan.notion.site/Onboard-82e2b21a6dc1477fa75375653c850f5f)
+
+## 24 25 日本IT就职实习刷题群
+本Repo源自于就职互助群，如果你有意向在日本就职且是IT方向，并且LC50题以上或者CS专业。
+欢迎联系微信号qiusenwan777拉你进群交流。
