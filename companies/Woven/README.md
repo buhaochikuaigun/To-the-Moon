@@ -25,3 +25,13 @@ Woven的前身是TRI-AD，是丰田的全资子公司。2020年初改制为Woven
 ## 薪资数据
 
 - [Open Salary](https://opensalary.jp/en/companies/woven-planet/roles/software-engineer)
+
+
+## 面试情报
+### intern
+1. （sde）一般分三轮，分别是senior engineer,manager和hr面。面试语言基本是按照jd里写的，没说需要日语就是英语面。
+    - hr 面： 各种常规bq，对于woven业务的了解与认识，经典为什么想留在日本
+    - senior engineer： 一道medium代码，解释打开一个网页的过程
+    - manager： 简历上的项目，基本介绍，八股：哈希，红黑树，链表，还有操作系统的一些经典问题， 口头写快慢指针那道题目。
+
+    等了两周才发offer。
