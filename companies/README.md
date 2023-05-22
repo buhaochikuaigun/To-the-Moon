@@ -72,7 +72,4 @@
   - [Detail](./Bosch/README.md)
 - Moneyforward 
   - [Carrer Page](https://recruit.moneyforward.com/)
-
-## 其他
-
-![万佬流东京IT排名](./assets/wan_ranking.jpg)
+  - [Detail](./MoneyForward/README.md)
