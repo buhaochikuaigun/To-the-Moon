@@ -68,6 +68,8 @@
 - Bosch
   - [Career Page](https://careers.smartrecruiters.com/BoschGroup/japan)
   - [Detail](./Bosch/README.md)
+- Moneyforward 
+  - [Carrer Page](https://recruit.moneyforward.com/)
 
 ## 其他
 
