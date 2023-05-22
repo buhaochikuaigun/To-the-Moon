@@ -14,8 +14,9 @@
 - Bloomberg (说明会)
   - [Career Event](https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941)
   - [Detail](./Bloomberg/README.md)
-- line: (未开) 
+- Line: (未开) 
   - [Career Page](https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29)
+  - [Detal](./Line/README.md)
 - Google: (未开) 
   - [Career Page](https://careers.google.com/jobs/)
   - [Detail](./Google/README.md)
@@ -33,9 +34,10 @@
   - [Career Page](https://careers.smartnews.com/jobs/)
 - PFN
   - [Career Page](https://www.preferred.jp/en/careers_jobs/engineering/)
+  - [Detail](./PFN/README.md)
 - Mercari
   - [Career Page](https://careers.mercari.com/search-jobs/?dep=engineering&cat=new-graduate-hiring)
-  - [Detail]()
+  - [Detail](./Mercari/README.md)
 - Rakuten
   - [Career Page](https://global.rakuten.com/corp/careers/graduates/recruit_engineer/)
   - [Detail](./Rakuten/README.md)
@@ -58,7 +60,7 @@
 - RedHat
   - [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13272--Tokyo)
 - SAP
-  - [Career Page](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=tokyo&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=)
+  - [Career Page](https://jobs.sap.com/search?locationsearch=tokyo)
 - Tanium
   - [Career Page](https://www.tanium.com/careers/engineering/#jobs)
 - BlackRock
