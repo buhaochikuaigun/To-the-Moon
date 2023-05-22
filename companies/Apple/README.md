@@ -16,6 +16,14 @@
 
 苹果的一些开发岗位在六本木，另外在横滨有一个更大的研发中心。如果想新卒进入苹果，且不说是日本，在美国都是不简单的一件事情，苹果向来不怎么喜欢招新卒，并且招聘是各个组独立招。我觉得如果想要新卒拿到苹果的offer，除了很好的运气，还要研究方向对岗位比较匹配。
 
+### @starduster
+
+苹果2023年似乎开始增设在日本的软件方向岗位（两年前我确实是基本找不到招聘的），其中至少包括 CDN 和 build system 的组，build system 这个组，主要负责 iOS/macOS/tvOS 的构建 pipeline，由日本、欧洲、美国三地的成员轮班 oncall，有 tools & service eng, build eng, SRE 等岗位
+
 ## 薪资
 
-- [Open Salary]（https://opensalary.jp/en/companies/apple-japan）
+- [Open Salary](https://opensalary.jp/en/companies/apple-japan)
+
+## 面试情报
+
+hc 非常少（build engineer 只有一个 hc，虽然 recruiter 说后续会增加，但是具体有几个不值得期待），recruiter 说面试在十轮左右，流程可能要走一个月。
