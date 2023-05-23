@@ -14,8 +14,9 @@
 - Bloomberg (说明会)
   - [Career Event](https://www.bloomberg.com/company/events/?_ga=2.26740093.1780423942.1663324941-422126972.1663324941)
   - [Detail](./Bloomberg/README.md)
-- line: (未开) 
+- Line: (未开) 
   - [Career Page](https://careers.linecorp.com/jobs?ca=Engineering&ci=Tokyo,Kyoto&co=East%20Asia&ty=Full-time%20%28Entry%20level%29)
+  - [Detal](./Line/README.md)
 - Google: (未开) 
   - [Career Page](https://careers.google.com/jobs/)
   - [Detail](./Google/README.md)
@@ -33,9 +34,10 @@
   - [Career Page](https://careers.smartnews.com/jobs/)
 - PFN
   - [Career Page](https://www.preferred.jp/en/careers_jobs/engineering/)
+  - [Detail](./PFN/README.md)
 - Mercari
   - [Career Page](https://careers.mercari.com/search-jobs/?dep=engineering&cat=new-graduate-hiring)
-  - [Detail]()
+  - [Detail](./Mercari/README.md)
 - Rakuten
   - [Career Page](https://global.rakuten.com/corp/careers/graduates/recruit_engineer/)
   - [Detail](./Rakuten/README.md)
@@ -58,7 +60,7 @@
 - RedHat
   - [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13272--Tokyo)
 - SAP
-  - [Career Page](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=tokyo&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=)
+  - [Career Page](https://jobs.sap.com/search?locationsearch=tokyo)
 - Tanium
   - [Career Page](https://www.tanium.com/careers/engineering/#jobs)
 - BlackRock
@@ -74,5 +76,7 @@
 ## 其他
 
 ![万佬流东京IT排名](./assets/wan_ranking.jpg)
+  - [Detail](./MoneyForward/README.md)
+
 
 TIPS: 时常刷一刷 LinkedIn，偶尔算法会给你推荐一些很奇妙的公司，除了你之前闻所未闻的小公司（比如 Inbound 和 Kyash，前者我发现 PFN 招聘的时候是真的在用他家的系统，后者是我自己用过），也有大厂比如 [Synosys](https://www.linkedin.com/jobs/view/3596968679), 做 ingress 和宝可梦 go 的 [Niantic](https://www.linkedin.com/jobs/view/3600391415/), 做 ELK 的 [Elastic](https://www.linkedin.com/jobs/view/3529975424), [TSMC](https://www.linkedin.com/jobs/view/3081331218/)，[Unity](https://www.linkedin.com/jobs/view/3528302648) 等等我曾经完全没想过会在日本招人的公司，包括 Intel、Cloudflare、字节跳动和四大咨询和投行等也有时候会招 SDE/IT，虽然不一定是都是严格意义上的新卒采用，但是不一定他写的要求3年经验就一定是真的必须三年，看看到底日本有哪些公司可以去还挺有意思的。
