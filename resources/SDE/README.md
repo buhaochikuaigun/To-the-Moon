@@ -43,6 +43,7 @@
     - [Alex Xu Linkedin](https://www.linkedin.com/in/alex-xu-a8131b11/)：他每天会分享一些系统是如何Design的Post，建议关注
     - [System Design Interview](https://www.amazon.co.jp/-/en/Alex-Xu/dp/B08CMF2CQF)：偏基础
     - [System Design Interview 2](https://www.amazon.co.jp/-/en/Alex-Xu/dp/1736049119/ref=pd_lpo_1?pd_rd_w=5ylp0&content-id=amzn1.sym.d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_p=d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_r=7VPW5VVMWWCJ9XWEP20T&pd_rd_wg=G9vNz&pd_rd_r=740f5173-b352-4a60-8f1f-77292f49dbd1&pd_rd_i=1736049119&psc=1)
+    - [BytebyteGo](https://www.youtube.com/@ByteByteGo): 上述书籍作者在 YouTube 做的 system design 高频问题的速成视频，他讲的内容是确实多次在面试遇到过的问题，视频 cover 的内容足够震慑面试官了
 - OOD
   - OOD相当于是System Design的新卒版，通常较为简单，题目一般为设计一个电梯系统，设计一个自动贩卖机等
   - [元宇宙战士的OOD笔记](https://qiusenwan.notion.site/ODD-e4016d77bbd6452ba112e18cd35d4152)
