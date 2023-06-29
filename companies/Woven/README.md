@@ -29,7 +29,9 @@ Woven的前身是TRI-AD，是丰田的全资子公司。2020年初改制为Woven
 ## 薪资数据
 
 - [Open Salary](https://opensalary.jp/en/companies/woven-planet/roles/software-engineer)
-
+2023 年，硕士应届生的薪资分布在650-800之间，因为有签字费奖金存在，范围比较大，房补固定一个月5w，每年有10w租车福利，加班费很好拿。
+博士的薪资起薪应该是800w。
+（Kun）
 
 ## 面试情报
 ### intern
