@@ -18,4 +18,4 @@
 
 - [Open Salary](https://opensalary.jp/en/companies/bosch-corporation)
 - [OpenWork](https://www.vorkers.com/company.php?m_id=a0910000000FrHR)
-- 2023年数据，engineer第一年加上房补总包在450-500w之间
+- 2023年数据，engineer第一年加上房补（房补为房租的75%，有上限）总包在400-500w之间，第二年总包在550-600w之间。
