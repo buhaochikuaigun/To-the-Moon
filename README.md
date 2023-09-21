@@ -24,4 +24,4 @@ We choose to go to the [moon](https://www.youtube.com/watch?v=ouRbkBAOGEw) not b
 
 ## 24 25 日本IT就职实习刷题群
 本Repo源自于就职互助群，如果你有意向在日本就职且是IT方向，并且LC50题以上或者CS专业。
-欢迎联系微信号qiusenwan777或者matthewyang52拉你进群交流。
+欢迎联系微信号matthewyang52拉你进群交流。
